@@ -1,3 +1,3 @@
-# Template p5 project
+# Juxtapositions of Nostalgia
 
-This is the README file for the entire project. For more official projects you should write information here about the nature of the project, your name, any special explanations of how the project works, etc.
+An animated screen display by Anthony Bourgeois and Alexander MacKinnon.
