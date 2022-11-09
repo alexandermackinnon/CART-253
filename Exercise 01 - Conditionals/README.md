@@ -1,5 +1,7 @@
 # Exercise 01 - Conditionals
 
+Week 4
+
 Create a program that
 - draws a red circle in the middle of the page ONLY if the mouse is pressed
 - draws a green circle in the left of the page ONLY if a key is pressed
